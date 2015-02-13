@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TrelloConsumer.iml" filepath="$PROJECT_DIR$/TrelloConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrelloConsumer-grailsPlugins.iml" filepath="$PROJECT_DIR$/TrelloConsumer-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
